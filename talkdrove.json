@@ -7,7 +7,7 @@
   "owner-verification": "princemayel99@gmail.com",
   
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID":'PRINCE-MDX~4V6uwtK3Ny6dydfezqfm' {
       "description": "Must Start with 'PRINCE-MDX~'",
       "required": true,
       "value": ""
